@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me 
+
+I am a Software developer that is passionate about technical writing and technology in general.
