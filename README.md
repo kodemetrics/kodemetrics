@@ -23,7 +23,7 @@ I am a Software developer that is passionate about technical writing and technol
 ## Written Articles
 
 * [Implement android material design date pickers](https://kodemetrics.com/date-pickers/)
-* [https://kodemetrics.com/google-maps-android-marker-clustering](https://kodemetrics.com/google-maps-android-marker-clustering/)
+* [How to implement Google Maps Android Marker Clustering](https://kodemetrics.com/google-maps-android-marker-clustering/)
 * [How to implement QR code & Barcode Scanner in Android](https://kodemetrics.com/android-barcode-scanner/)
 * [How to add watermark to image in laravel](https://kodemetrics.com/add-watermark-to-image-in-laravel/)
 * [Implement flutter Date Picker](https://dev.to/kodemetrics/implement-flutter-date-picker-28d0)
