@@ -1,6 +1,6 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
 **kodemetrics/kodemetrics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me 
+# About Me 
 
-I am a Software developer that is passionate about technical writing and technology in general.
+I am a Software developer that is passionate about technical writing and technology in general.\
+
+
+## Written Articles
+
+* [Implement android material design date pickers](https://kodemetrics.com/date-pickers/)
+* [https://kodemetrics.com/google-maps-android-marker-clustering/](https://kodemetrics.com/google-maps-android-marker-clustering/)
+* [How to implement QR code & Barcode Scanner in Android](How to implement QR code & Barcode Scanner in Android)
+* [How to add watermark to image in laravel](https://kodemetrics.com/add-watermark-to-image-in-laravel/)
+* [Implement flutter Date Picker](https://dev.to/kodemetrics/implement-flutter-date-picker-28d0)
+
+
+## Contributors ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://edidiongasikpo.com/"><img src="https://avatars1.githubusercontent.com/u/28895379?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Didicodes</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=edyasikpo" title="Documentation">📖</a></td>
+	<td align="center"><a href="https://kodemetrics.com"><img src="https://avatars.githubusercontent.com/u/40427533?s=40&v=4?s=100" width="100px;" alt=""/><br /><sub><b>kodemetrics</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=edyasikpo" title="Documentation">📖</a></td>
+
+  </tr>
+
+</table>
+
+
+
+
+
+
+
