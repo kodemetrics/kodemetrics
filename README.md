@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 # About Me 
 
-I am a Software developer that is passionate about technical writing and technology in general.\
+A software engineer, with a deep knowledge of a wide range of technologies and tools, including Java, Kotlin, Spring Boot, Vue JS, NodeJS, Rabbit MQ, Apache Kafka, Flutter, MySQL, Git, Linux, Docker, Kubernetes, Elasticsearch, AWS (EC2, Route 53), Hibernate, JPA, Pandas, JUnit, Selenium, Mockito, Maven, Gradle, and web servers like Nginx, Apache Tomcat, and Glassfish.
+
+Throughout my career, I have demonstrated my ability to design, develop, and deploy high-quality software solutions that meet the needs of businesses across a variety of industries. I am particularly skilled in creating robust, scalable systems that can handle high volumes of traffic and data while maintaining optimal performance and reliability.
 
 
 ## Written Articles
@@ -30,25 +32,7 @@ I am a Software developer that is passionate about technical writing and technol
 
 
 
-## Useful Links
 
-* [blog](https://kodemetrics.com)
-
-
-
-## Contributors ✨
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://edidiongasikpo.com/"><img src="https://avatars1.githubusercontent.com/u/28895379?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Didicodes</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=edyasikpo" title="Documentation">📖</a></td>
-	<td align="center"><a href="https://kodemetrics.com"><img src="https://avatars.githubusercontent.com/u/40427533?s=40&v=4?s=100" width="100px;" alt=""/><br /><sub><b>kodemetrics</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/awesome-technical-writing/commits?author=edyasikpo" title="Documentation">📖</a></td>
-
-  </tr>
-
-</table>
 
 
 
