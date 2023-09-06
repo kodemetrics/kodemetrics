@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40ashtom-239a3b.svg)](https://github.com/kodemetrics)
-[![Twitter](https://img.shields.io/badge/Twitter-%40ashtom-58a1f2.svg)](https://twitter.com/talktowilson_)
+[![GitHub](https://img.shields.io/badge/GitHub-%40kodemetrics-239a3b.svg)](https://github.com/kodemetrics)
+[![Twitter](https://img.shields.io/badge/Twitter-%40talktowilson__-58a1f2.svg)](https://twitter.com/talktowilson_)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/okafor-kingsley-0b32a910a)
 
 A Software engineer, with a depth knowledge of a wide range of technologies and tools, including Java, Kotlin, Spring Boot, Vue JS, NodeJS, Nextjs, Rabbit MQ, Apache Kafka, Flutter, MySQL, Git, Linux, Docker, Kubernetes, Elasticsearch, AWS (EC2, Route 53), Hibernate, JPA, Pandas, JUnit, Selenium, Mockito, Maven, Gradle, and web servers like Nginx, Apache Tomcat, and Glassfish.
